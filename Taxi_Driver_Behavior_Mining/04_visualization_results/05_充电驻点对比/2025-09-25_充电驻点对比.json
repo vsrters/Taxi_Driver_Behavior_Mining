@@ -1,0 +1,60 @@
+{
+  "date": "2025-09-25",
+  "api_stations": [
+    {
+      "lon": 114.11693559350722,
+      "lat": 22.616221084635054,
+      "start": "2025-09-25 05:14:55",
+      "end": "2025-09-25 06:01:13",
+      "duration": 46.3
+    }
+  ],
+  "algorithm_stations": [
+    {
+      "lon": 114.11693559350722,
+      "lat": 22.616221084635054,
+      "start": "2025-09-25 05:14:55",
+      "end": "2025-09-25 06:01:13",
+      "duration": 46.3
+    }
+  ],
+  "all_stationary_periods": [
+    {
+      "lon": 114.0863912537879,
+      "lat": 22.54066343939394,
+      "start": "2025-09-25 02:16:19",
+      "end": "2025-09-25 02:37:00",
+      "duration": 20.683333333333334,
+      "algorithm_is_charging": true,
+      "api_is_charging": true,
+      "final_is_charging": false
+    },
+    {
+      "lon": 114.11693559350722,
+      "lat": 22.616221084635054,
+      "start": "2025-09-25 05:14:55",
+      "end": "2025-09-25 06:01:13",
+      "duration": 46.3,
+      "algorithm_is_charging": true,
+      "api_is_charging": true,
+      "final_is_charging": true
+    },
+    {
+      "lon": 114.10821197762847,
+      "lat": 22.56893619062895,
+      "start": "2025-09-25 21:17:40",
+      "end": "2025-09-25 21:37:40",
+      "duration": 20.0,
+      "algorithm_is_charging": true,
+      "api_is_charging": true,
+      "final_is_charging": true
+    }
+  ],
+  "summary": {
+    "total_stationary_periods": 3,
+    "api_charging_count": 1,
+    "algorithm_charging_count": 1,
+    "agreement_count": 3,
+    "agreement_rate": 1.0
+  }
+}

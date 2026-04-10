@@ -1,0 +1,853 @@
+[
+  {
+    "state": "cruising",
+    "start": "2025-09-25 00:00:00",
+    "end": "2025-09-25 05:14:30",
+    "duration_minutes": 314.5,
+    "details": {}
+  },
+  {
+    "state": "heading",
+    "start": "2025-09-25 05:14:30",
+    "end": "2025-09-25 05:14:55",
+    "duration_minutes": 1.0,
+    "details": {
+      "from_lon": 114.116242,
+      "from_lat": 22.613805,
+      "to_lon": 114.11693559350722,
+      "to_lat": 22.616221084635054,
+      "distance_meters": 277.9295192804412,
+      "distance_km": 0.2779295192804412
+    }
+  },
+  {
+    "state": "recharging",
+    "start": "2025-09-25 05:14:55",
+    "end": "2025-09-25 06:01:13",
+    "duration_minutes": 46.3,
+    "details": {
+      "station_name": "依威能源充电站(德兴城)",
+      "lon": 114.11693559350722,
+      "lat": 22.616221084635054
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-25 06:01:13",
+    "end": "2025-09-25 08:02:55",
+    "duration_minutes": 121.7,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-25 08:02:55",
+    "end": "2025-09-25 08:13:49",
+    "duration_minutes": 10.9,
+    "details": {
+      "pickup_lon": 114.08672,
+      "pickup_lat": 22.539635,
+      "dropoff_lon": 114.122355,
+      "dropoff_lat": 22.55198,
+      "mileage": 4.698,
+      "fare": 24.5
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-25 08:13:49",
+    "end": "2025-09-25 08:27:03",
+    "duration_minutes": 13.233333333333333,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-25 08:27:03",
+    "end": "2025-09-25 08:36:13",
+    "duration_minutes": 9.166666666666666,
+    "details": {
+      "pickup_lon": 114.120267,
+      "pickup_lat": 22.544577,
+      "dropoff_lon": 114.10705,
+      "dropoff_lat": 22.554105,
+      "mileage": 2.652,
+      "fare": 18.0
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-25 08:36:13",
+    "end": "2025-09-25 08:59:22",
+    "duration_minutes": 23.15,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-25 08:59:22",
+    "end": "2025-09-25 09:05:11",
+    "duration_minutes": 5.816666666666666,
+    "details": {
+      "pickup_lon": 114.12059,
+      "pickup_lat": 22.54408,
+      "dropoff_lon": 114.11704,
+      "dropoff_lat": 22.550825,
+      "mileage": 1.4,
+      "fare": 13.0
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-25 09:05:11",
+    "end": "2025-09-25 09:16:39",
+    "duration_minutes": 11.466666666666667,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-25 09:16:39",
+    "end": "2025-09-25 09:22:30",
+    "duration_minutes": 5.85,
+    "details": {
+      "pickup_lon": 114.11809,
+      "pickup_lat": 22.543802,
+      "dropoff_lon": 114.117395,
+      "dropoff_lat": 22.536812,
+      "mileage": 1.711,
+      "fare": 14.0
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-25 09:22:30",
+    "end": "2025-09-25 09:23:26",
+    "duration_minutes": 0.9333333333333333,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-25 09:23:26",
+    "end": "2025-09-25 09:34:37",
+    "duration_minutes": 11.183333333333334,
+    "details": {
+      "pickup_lon": 114.11626,
+      "pickup_lat": 22.535797,
+      "dropoff_lon": 114.070315,
+      "dropoff_lat": 22.523652,
+      "mileage": 9.21,
+      "fare": 38.5
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-25 09:34:37",
+    "end": "2025-09-25 10:36:46",
+    "duration_minutes": 62.15,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-25 10:36:46",
+    "end": "2025-09-25 10:44:45",
+    "duration_minutes": 7.983333333333333,
+    "details": {
+      "pickup_lon": 114.086475,
+      "pickup_lat": 22.540697,
+      "dropoff_lon": 114.116117,
+      "dropoff_lat": 22.54195,
+      "mileage": 3.772,
+      "fare": 20.5
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-25 10:44:45",
+    "end": "2025-09-25 11:08:10",
+    "duration_minutes": 23.416666666666668,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-25 11:08:10",
+    "end": "2025-09-25 11:42:34",
+    "duration_minutes": 34.4,
+    "details": {
+      "pickup_lon": 114.11606,
+      "pickup_lat": 22.541975,
+      "dropoff_lon": 114.00006,
+      "dropoff_lat": 22.65155,
+      "mileage": 23.002,
+      "fare": 94.5
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-25 11:42:34",
+    "end": "2025-09-25 12:16:02",
+    "duration_minutes": 33.46666666666667,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-25 12:16:02",
+    "end": "2025-09-25 12:30:02",
+    "duration_minutes": 14.0,
+    "details": {
+      "pickup_lon": 114.11283,
+      "pickup_lat": 22.611085,
+      "dropoff_lon": 114.135632,
+      "dropoff_lat": 22.557785,
+      "mileage": 8.785,
+      "fare": 39.0
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-25 12:30:02",
+    "end": "2025-09-25 12:49:31",
+    "duration_minutes": 19.483333333333334,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-25 12:49:31",
+    "end": "2025-09-25 13:00:02",
+    "duration_minutes": 10.516666666666667,
+    "details": {
+      "pickup_lon": 114.11934,
+      "pickup_lat": 22.612095,
+      "dropoff_lon": 114.131792,
+      "dropoff_lat": 22.633495,
+      "mileage": 4.397,
+      "fare": 24.0
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-25 13:00:02",
+    "end": "2025-09-25 14:50:29",
+    "duration_minutes": 110.45,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-25 14:50:29",
+    "end": "2025-09-25 15:00:54",
+    "duration_minutes": 10.416666666666666,
+    "details": {
+      "pickup_lon": 114.1099,
+      "pickup_lat": 22.54468,
+      "dropoff_lon": 114.114675,
+      "dropoff_lat": 22.531222,
+      "mileage": 1.737,
+      "fare": 14.0
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-25 15:00:54",
+    "end": "2025-09-25 15:16:19",
+    "duration_minutes": 15.416666666666666,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-25 15:16:19",
+    "end": "2025-09-25 15:40:08",
+    "duration_minutes": 23.816666666666666,
+    "details": {
+      "pickup_lon": 114.124545,
+      "pickup_lat": 22.563777,
+      "dropoff_lon": 114.050035,
+      "dropoff_lat": 22.545327,
+      "mileage": 9.887,
+      "fare": 38.0
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-25 15:40:08",
+    "end": "2025-09-25 15:48:23",
+    "duration_minutes": 8.25,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-25 15:48:23",
+    "end": "2025-09-25 16:16:56",
+    "duration_minutes": 28.55,
+    "details": {
+      "pickup_lon": 114.034025,
+      "pickup_lat": 22.550035,
+      "dropoff_lon": 114.066765,
+      "dropoff_lat": 22.55911,
+      "mileage": 7.757,
+      "fare": 37.5
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-25 16:16:56",
+    "end": "2025-09-25 16:22:50",
+    "duration_minutes": 5.9,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-25 16:22:50",
+    "end": "2025-09-25 16:39:19",
+    "duration_minutes": 16.483333333333334,
+    "details": {
+      "pickup_lon": 114.061062,
+      "pickup_lat": 22.56393,
+      "dropoff_lon": 114.025395,
+      "dropoff_lat": 22.55594,
+      "mileage": 4.395,
+      "fare": 23.0
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-25 16:39:19",
+    "end": "2025-09-25 16:49:49",
+    "duration_minutes": 10.5,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-25 16:49:49",
+    "end": "2025-09-25 17:04:09",
+    "duration_minutes": 14.333333333333334,
+    "details": {
+      "pickup_lon": 114.0185,
+      "pickup_lat": 22.556432,
+      "dropoff_lon": 114.03078,
+      "dropoff_lat": 22.529872,
+      "mileage": 3.863,
+      "fare": 21.0
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-25 17:04:09",
+    "end": "2025-09-25 17:07:49",
+    "duration_minutes": 3.6666666666666665,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-25 17:07:49",
+    "end": "2025-09-25 17:18:48",
+    "duration_minutes": 10.983333333333333,
+    "details": {
+      "pickup_lon": 114.03481,
+      "pickup_lat": 22.526905,
+      "dropoff_lon": 114.056947,
+      "dropoff_lat": 22.54939,
+      "mileage": 5.121,
+      "fare": 20.5
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-25 17:18:48",
+    "end": "2025-09-25 17:52:35",
+    "duration_minutes": 33.78333333333333,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-25 17:52:35",
+    "end": "2025-09-25 18:01:54",
+    "duration_minutes": 9.316666666666666,
+    "details": {
+      "pickup_lon": 114.08964,
+      "pickup_lat": 22.554087,
+      "dropoff_lon": 114.085132,
+      "dropoff_lat": 22.540757,
+      "mileage": 2.158,
+      "fare": 14.0
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-25 18:01:54",
+    "end": "2025-09-25 18:14:23",
+    "duration_minutes": 12.483333333333333,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-25 18:14:23",
+    "end": "2025-09-25 18:21:05",
+    "duration_minutes": 6.7,
+    "details": {
+      "pickup_lon": 114.107585,
+      "pickup_lat": 22.53632,
+      "dropoff_lon": 114.115127,
+      "dropoff_lat": 22.53843,
+      "mileage": 2.187,
+      "fare": 12.0
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-25 18:21:05",
+    "end": "2025-09-25 18:53:25",
+    "duration_minutes": 32.333333333333336,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-25 18:53:25",
+    "end": "2025-09-25 19:02:00",
+    "duration_minutes": 8.583333333333334,
+    "details": {
+      "pickup_lon": 114.12705,
+      "pickup_lat": 22.550012,
+      "dropoff_lon": 114.14179,
+      "dropoff_lat": 22.548207,
+      "mileage": 3.009,
+      "fare": 14.5
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-25 19:02:00",
+    "end": "2025-09-25 19:15:33",
+    "duration_minutes": 13.55,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-25 19:15:33",
+    "end": "2025-09-25 19:19:55",
+    "duration_minutes": 4.366666666666666,
+    "details": {
+      "pickup_lon": 114.122535,
+      "pickup_lat": 22.550357,
+      "dropoff_lon": 114.120445,
+      "dropoff_lat": 22.538915,
+      "mileage": 1.963,
+      "fare": 10.5
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-25 19:19:55",
+    "end": "2025-09-25 20:06:08",
+    "duration_minutes": 46.21666666666667,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-25 20:06:08",
+    "end": "2025-09-25 20:11:29",
+    "duration_minutes": 5.35,
+    "details": {
+      "pickup_lon": 114.115367,
+      "pickup_lat": 22.563352,
+      "dropoff_lon": 114.120875,
+      "dropoff_lat": 22.557675,
+      "mileage": 2.448,
+      "fare": 12.0
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-25 20:11:29",
+    "end": "2025-09-25 20:17:13",
+    "duration_minutes": 5.733333333333333,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-25 20:17:13",
+    "end": "2025-09-25 20:24:59",
+    "duration_minutes": 7.766666666666667,
+    "details": {
+      "pickup_lon": 114.11539,
+      "pickup_lat": 22.55404,
+      "dropoff_lon": 114.129357,
+      "dropoff_lat": 22.551202,
+      "mileage": 2.993,
+      "fare": 14.0
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-25 20:24:59",
+    "end": "2025-09-25 21:44:34",
+    "duration_minutes": 79.58333333333333,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-25 21:44:34",
+    "end": "2025-09-25 21:48:52",
+    "duration_minutes": 4.3,
+    "details": {
+      "pickup_lon": 114.133007,
+      "pickup_lat": 22.582322,
+      "dropoff_lon": 114.128985,
+      "dropoff_lat": 22.58834,
+      "mileage": 1.117,
+      "fare": 10.0
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-25 21:48:52",
+    "end": "2025-09-25 21:49:29",
+    "duration_minutes": 0.6166666666666667,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-25 21:49:29",
+    "end": "2025-09-25 22:02:52",
+    "duration_minutes": 13.383333333333333,
+    "details": {
+      "pickup_lon": 114.129057,
+      "pickup_lat": 22.588442,
+      "dropoff_lon": 114.136667,
+      "dropoff_lat": 22.569452,
+      "mileage": 3.754,
+      "fare": 18.0
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-25 22:02:52",
+    "end": "2025-09-25 22:08:34",
+    "duration_minutes": 5.7,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-25 22:08:34",
+    "end": "2025-09-25 22:17:44",
+    "duration_minutes": 9.166666666666666,
+    "details": {
+      "pickup_lon": 114.130795,
+      "pickup_lat": 22.574787,
+      "dropoff_lon": 114.12056,
+      "dropoff_lat": 22.57562,
+      "mileage": 1.978,
+      "fare": 13.5
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-25 22:17:44",
+    "end": "2025-09-26 01:39:12",
+    "duration_minutes": 201.46666666666667,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-26 01:39:12",
+    "end": "2025-09-26 02:04:47",
+    "duration_minutes": 25.583333333333332,
+    "details": {
+      "pickup_lon": 114.11983,
+      "pickup_lat": 22.546745,
+      "dropoff_lon": 114.130602,
+      "dropoff_lat": 22.603967,
+      "mileage": 10.307,
+      "fare": 37.0
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-26 02:04:47",
+    "end": "2025-09-26 02:21:23",
+    "duration_minutes": 16.6,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-26 02:21:23",
+    "end": "2025-09-26 02:39:56",
+    "duration_minutes": 18.55,
+    "details": {
+      "pickup_lon": 114.113857,
+      "pickup_lat": 22.587565,
+      "dropoff_lon": 114.131475,
+      "dropoff_lat": 22.5612,
+      "mileage": 5.612,
+      "fare": 26.5
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-26 02:39:56",
+    "end": "2025-09-26 02:51:55",
+    "duration_minutes": 11.983333333333333,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-26 02:51:55",
+    "end": "2025-09-26 02:59:08",
+    "duration_minutes": 7.216666666666667,
+    "details": {
+      "pickup_lon": 114.127585,
+      "pickup_lat": 22.550055,
+      "dropoff_lon": 114.121822,
+      "dropoff_lat": 22.567027,
+      "mileage": 2.501,
+      "fare": 12.5
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-26 02:59:08",
+    "end": "2025-09-26 03:17:50",
+    "duration_minutes": 18.7,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-26 03:17:50",
+    "end": "2025-09-26 03:29:22",
+    "duration_minutes": 11.533333333333333,
+    "details": {
+      "pickup_lon": 114.107792,
+      "pickup_lat": 22.567597,
+      "dropoff_lon": 114.116302,
+      "dropoff_lat": 22.54901,
+      "mileage": 4.038,
+      "fare": 18.5
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-26 03:29:22",
+    "end": "2025-09-26 03:34:10",
+    "duration_minutes": 4.8,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-26 03:34:10",
+    "end": "2025-09-26 03:43:09",
+    "duration_minutes": 8.983333333333333,
+    "details": {
+      "pickup_lon": 114.119175,
+      "pickup_lat": 22.54403,
+      "dropoff_lon": 114.13711,
+      "dropoff_lat": 22.546905,
+      "mileage": 3.017,
+      "fare": 14.5
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-26 03:43:09",
+    "end": "2025-09-26 04:16:00",
+    "duration_minutes": 32.85,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-26 04:16:00",
+    "end": "2025-09-26 04:24:36",
+    "duration_minutes": 8.6,
+    "details": {
+      "pickup_lon": 114.11667,
+      "pickup_lat": 22.548375,
+      "dropoff_lon": 114.134452,
+      "dropoff_lat": 22.5648,
+      "mileage": 2.726,
+      "fare": 14.5
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-26 04:24:36",
+    "end": "2025-09-26 04:30:58",
+    "duration_minutes": 6.366666666666666,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-26 04:30:58",
+    "end": "2025-09-26 04:36:47",
+    "duration_minutes": 5.816666666666666,
+    "details": {
+      "pickup_lon": 114.136355,
+      "pickup_lat": 22.5605,
+      "dropoff_lon": 114.128867,
+      "dropoff_lat": 22.55071,
+      "mileage": 1.437,
+      "fare": 10.5
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-26 04:36:47",
+    "end": "2025-09-26 04:37:19",
+    "duration_minutes": 0.5333333333333333,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-26 04:37:19",
+    "end": "2025-09-26 04:46:15",
+    "duration_minutes": 8.933333333333334,
+    "details": {
+      "pickup_lon": 114.128845,
+      "pickup_lat": 22.55073,
+      "dropoff_lon": 114.11265,
+      "dropoff_lat": 22.544,
+      "mileage": 1.957,
+      "fare": 13.5
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-26 04:46:15",
+    "end": "2025-09-26 04:55:49",
+    "duration_minutes": 9.566666666666666,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-26 04:55:49",
+    "end": "2025-09-26 05:06:36",
+    "duration_minutes": 10.783333333333333,
+    "details": {
+      "pickup_lon": 114.116775,
+      "pickup_lat": 22.548537,
+      "dropoff_lon": 114.124287,
+      "dropoff_lat": 22.5735,
+      "mileage": 3.566,
+      "fare": 17.5
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-26 05:06:36",
+    "end": "2025-09-26 05:37:39",
+    "duration_minutes": 31.05,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-26 05:37:39",
+    "end": "2025-09-26 05:42:24",
+    "duration_minutes": 4.75,
+    "details": {
+      "pickup_lon": 114.107595,
+      "pickup_lat": 22.568127,
+      "dropoff_lon": 114.103877,
+      "dropoff_lat": 22.56087,
+      "mileage": 1.029,
+      "fare": 10.0
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-26 05:42:24",
+    "end": "2025-09-26 05:47:02",
+    "duration_minutes": 4.633333333333334,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-26 05:47:02",
+    "end": "2025-09-26 06:01:34",
+    "duration_minutes": 14.533333333333333,
+    "details": {
+      "pickup_lon": 114.10411,
+      "pickup_lat": 22.552862,
+      "dropoff_lon": 114.130805,
+      "dropoff_lat": 22.549335,
+      "mileage": 3.891,
+      "fare": 20.5
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-26 06:01:34",
+    "end": "2025-09-26 06:07:45",
+    "duration_minutes": 6.183333333333334,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-26 06:07:45",
+    "end": "2025-09-26 06:13:55",
+    "duration_minutes": 6.166666666666667,
+    "details": {
+      "pickup_lon": 114.128622,
+      "pickup_lat": 22.550255,
+      "dropoff_lon": 114.13745,
+      "dropoff_lat": 22.55575,
+      "mileage": 1.592,
+      "fare": 11.0
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-26 06:13:55",
+    "end": "2025-09-26 06:40:38",
+    "duration_minutes": 26.716666666666665,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-26 06:40:38",
+    "end": "2025-09-26 06:49:51",
+    "duration_minutes": 9.216666666666667,
+    "details": {
+      "pickup_lon": 114.11671,
+      "pickup_lat": 22.548532,
+      "dropoff_lon": 114.131765,
+      "dropoff_lat": 22.574662,
+      "mileage": 4.279,
+      "fare": 17.5
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-26 06:49:51",
+    "end": "2025-09-26 06:58:06",
+    "duration_minutes": 8.25,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-26 06:58:06",
+    "end": "2025-09-26 07:05:57",
+    "duration_minutes": 7.85,
+    "details": {
+      "pickup_lon": 114.13465,
+      "pickup_lat": 22.565465,
+      "dropoff_lon": 114.122057,
+      "dropoff_lat": 22.544927,
+      "mileage": 2.901,
+      "fare": 16.0
+    }
+  },
+  {
+    "state": "cruising",
+    "start": "2025-09-26 07:05:57",
+    "end": "2025-09-26 07:10:52",
+    "duration_minutes": 4.916666666666667,
+    "details": {}
+  },
+  {
+    "state": "occupied",
+    "start": "2025-09-26 07:10:52",
+    "end": "2025-09-26 07:23:17",
+    "duration_minutes": 12.416666666666666,
+    "details": {
+      "pickup_lon": 114.12118,
+      "pickup_lat": 22.543455,
+      "dropoff_lon": 114.056832,
+      "dropoff_lat": 22.537555,
+      "mileage": 7.77,
+      "fare": 36.0
+    }
+  }
+]
